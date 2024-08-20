@@ -1,0 +1,8 @@
+{
+  "root": [
+    "input",
+    "notebooks",
+    "output",
+    "src"
+  ]
+}
